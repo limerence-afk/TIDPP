@@ -1,0 +1,18 @@
+
+commit 8ff3044088a8c4d1b3a0810b93690e5ab3554284 (HEAD -> main)
+Author: Bogdan Maxim TI-185 <62384782+limerence-afk@users.noreply.github.com>
+Date:   Tue Sep 8 16:59:16 2020 +0300
+
+    Create FINAL.txt
+
+commit d66306aea68d5be3ca3883186fb111399e3f4a05 (origin/branch7, origin/branch6, origin/branch5, origin/branch4, origin/branch3, origin/branch2, origin/branch1, branch7, branch6, branch5, branch4, branch3, branch2, branch10, branch1)
+Author: Bogdan <maxim.bogdan98@gmail.com>
+Date:   Tue Sep 8 16:19:46 2020 +0300
+
+    NEW change
+
+commit 865199a1e95c16132aec80fea1e7a84d82ace0e7
+Author: Bogdan <maxim.bogdan98@gmail.com>
+Date:   Tue Sep 8 15:55:36 2020 +0300
+
+    Initial commit
